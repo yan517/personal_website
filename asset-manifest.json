@@ -1,22 +1,25 @@
 {
   "files": {
-    "main.css": "/personal_website/static/css/main.8c8ddeee.css",
-    "main.js": "/personal_website/static/js/main.ed766e04.js",
+    "main.css": "/personal_website/static/css/main.32f20976.css",
+    "main.js": "/personal_website/static/js/main.cd3d7f49.js",
     "static/media/guessanddraw.png": "/personal_website/static/media/guessanddraw.a943215926cefc1fab42.png",
     "static/media/profile.jpg": "/personal_website/static/media/profile.f02eeaad08728cdd7340.jpg",
     "static/media/personalwebsite.PNG": "/personal_website/static/media/personalwebsite.f8c49770847dfe6fab2f.PNG",
     "static/media/taipeidaytrip.png": "/personal_website/static/media/taipeidaytrip.ddf341ee358e277be986.png",
     "static/media/GemsCrush.png": "/personal_website/static/media/GemsCrush.5c69119b49fa8355c39b.png",
     "static/media/snow.JPG": "/personal_website/static/media/snow.c216c2f4f365bb47d2ba.JPG",
+    "static/media/CV.pdf": "/personal_website/static/media/CV.d41899773b28f2c52bc6.pdf",
     "static/media/dive2.jpg": "/personal_website/static/media/dive2.9e672a29e22ae324bd4f.jpg",
     "static/media/dive.jpg": "/personal_website/static/media/dive.0b8fa61c179c4c639fa2.jpg",
     "static/media/placeholder.png": "/personal_website/static/media/placeholder.cdac0fc06b0c17cf387e.png",
     "static/media/favourite.png": "/personal_website/static/media/favourite.8813493990c7cd1fa4b0.png",
     "static/media/programming.png": "/personal_website/static/media/programming.c29ef1f335e5f30001d8.png",
-    "index.html": "/personal_website/index.html"
+    "index.html": "/personal_website/index.html",
+    "main.32f20976.css.map": "/personal_website/static/css/main.32f20976.css.map",
+    "main.cd3d7f49.js.map": "/personal_website/static/js/main.cd3d7f49.js.map"
   },
   "entrypoints": [
-    "static/css/main.8c8ddeee.css",
-    "static/js/main.ed766e04.js"
+    "static/css/main.32f20976.css",
+    "static/js/main.cd3d7f49.js"
   ]
 }
