@@ -198,10 +198,10 @@ const dataproject = [{
         title:"Personal Website",
         img: img8,
         description: "Stay tuned for my latest updates on career and personal projects",
-        demosource:"",
+        demosource:"https://yan517.github.io/personal_website",
         stack:"[React,JavaScript]",
         isAvailable: false,
-        link: "",
+        link: "https://github.com/yan517/personal_website",
     },
 ];
 

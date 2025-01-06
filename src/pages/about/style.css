@@ -70,6 +70,14 @@
     padding-bottom: 4px;
 }
 
+.title_cv{
+    display: grid;
+    grid-template-columns: 40% 60%;
+}
+.cv_button{
+    margin-top: 15px;
+}
+
 
 /*! CSS Used keyframes */
 

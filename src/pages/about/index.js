@@ -1,7 +1,7 @@
 import React from "react";
 import "./style.css";
 import { Helmet, HelmetProvider } from "react-helmet-async";
-import { Container, Row, Col } from "react-bootstrap";
+import { Container, Row, Col, Button } from "react-bootstrap";
 import {
   dataabout,
   meta,
@@ -14,6 +14,7 @@ import placeholder from "../../assets/images/placeholder.png"
 import calendar from "../../assets/images/calendar.png"
 import fav from "../../assets/images/favourite.png"
 import lang from "../../assets/images/programming.png"
+import pdf from "../../assets/files/CV.pdf"
 
 export const About = () => {
   return (
@@ -22,11 +23,27 @@ export const About = () => {
         <Helmet>
           <meta charSet="utf-8" />
           <title> About | {meta.title}</title>
+          
           <meta name="description" content={meta.description} />
         </Helmet>
         <Row className="mb-5 mt-3 pt-md-3">
+          
+        </Row>
+        <Row className="mb-5 mt-3 pt-md-3">
           <Col lg="8">
-            <h1 className="display-4 mb-4">Cindy Lam</h1>
+            <div className="title_cv">
+              <div><h1 className="display-4 mb-4">Cindy Lam </h1></div>
+                  <div className="intro_btn-action pb-5">
+                  <a href={pdf} download>
+                      <div id="button_p" className="ac_btn btn cv_button">
+                        DOWNLOAD CV
+                        <div className="ring one"></div>
+                        <div className="ring two"></div>
+                        <div className="ring three"></div>
+                      </div>
+                  </a>
+                  </div>
+            </div>
             <hr className="t_border my-4 ml-0 text-left" />
           </Col>
         </Row>
