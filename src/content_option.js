@@ -6,6 +6,7 @@ import img5 from './assets/images/taipeidaytrip.png'
 import img6 from './assets/images/guessanddraw.png'
 import img7 from './assets/images/GemsCrush.png'
 import img8 from './assets/images/personalwebsite.PNG'
+import GemsCrush from './assets/files/GemsCrush.exe'
 
 const logotext = "CINDY";
 const meta = {
@@ -189,7 +190,7 @@ const dataproject = [{
         title:"GemsCrush",
         img: img7,
         description: "Gems Crush is a simplified version of the classic tile-matching puzzle video game, Bejeweled.",
-        demosource:"",
+        demosource:GemsCrush,
         stack:"[Java]",
         isAvailable: false,
         link: "https://github.com/yan517/GemsCrush",
