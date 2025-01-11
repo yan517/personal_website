@@ -1,7 +1,8 @@
 {
   "files": {
     "main.css": "/personal_website/static/css/main.32f20976.css",
-    "main.js": "/personal_website/static/js/main.cd3d7f49.js",
+    "main.js": "/personal_website/static/js/main.2bff86ea.js",
+    "static/media/GemsCrush.exe": "/personal_website/static/media/GemsCrush.cacece3de33fd42a8967.exe",
     "static/media/guessanddraw.png": "/personal_website/static/media/guessanddraw.a943215926cefc1fab42.png",
     "static/media/profile.jpg": "/personal_website/static/media/profile.f02eeaad08728cdd7340.jpg",
     "static/media/personalwebsite.PNG": "/personal_website/static/media/personalwebsite.f8c49770847dfe6fab2f.PNG",
@@ -16,10 +17,10 @@
     "static/media/programming.png": "/personal_website/static/media/programming.c29ef1f335e5f30001d8.png",
     "index.html": "/personal_website/index.html",
     "main.32f20976.css.map": "/personal_website/static/css/main.32f20976.css.map",
-    "main.cd3d7f49.js.map": "/personal_website/static/js/main.cd3d7f49.js.map"
+    "main.2bff86ea.js.map": "/personal_website/static/js/main.2bff86ea.js.map"
   },
   "entrypoints": [
     "static/css/main.32f20976.css",
-    "static/js/main.cd3d7f49.js"
+    "static/js/main.2bff86ea.js"
   ]
 }
